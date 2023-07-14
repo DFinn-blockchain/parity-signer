@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ErrorDisplayed","QrSequenceDecodeError"],"fn":["ffi_signer_bd51_rustbuffer_alloc","ffi_signer_bd51_rustbuffer_free","ffi_signer_bd51_rustbuffer_from_bytes","ffi_signer_bd51_rustbuffer_reserve","signer_destroy_string"],"macro":["uniffi_reexport_scaffolding"]};
